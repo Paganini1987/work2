@@ -178,3 +178,57 @@ body {
 	margin-bottom: 50px;
 	font-size: 35px;
 }
+.more_power {
+	display: block;
+	margin-top: 160px;
+	height: 875px;
+	background: url("../img/power.jpg") no-repeat center;
+	background-size: cover;
+	color: white;
+	overflow: hidden;
+}
+.more_power h1 {
+	display: block;
+	font-family: 'Open Sans';
+	font-weight: 300;
+	font-size: 60px;
+	margin-bottom: 40px;
+	max-width: 510px;
+}
+.more_power-text {
+	max-width: 450px;
+	font-family: 'Open Sans';
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+}
+.more_power-options {
+	display: block;
+	position: relative;
+	font-family: 'Open Sans';
+	font-weight: bold;
+	font-size: 14px;
+	margin-top: 30px;
+	color: white;
+}
+.more_power-options:after {
+	content: "\f178";
+	font-family: FontAwesome;
+	display: inline-block;
+	vertical-align: middle;
+	padding-left: 15px;
+	transition: 500ms;
+}
+.more_power-options:hover {
+	text-decoration: none;
+	color: white;
+}
+.more_power-options:hover:after {
+	transform: translateX(10px);
+}
+.more_power-cup {
+	height: 210px;
+}
+.more_power-cup2 {
+	height: 210px;
+}
