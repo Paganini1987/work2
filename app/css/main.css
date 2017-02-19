@@ -50,8 +50,8 @@ body {
 .start_cap_2 {
 	height: 178px;
 }
-.start {
-	margin-bottom: 20px;
+.start, .grid {
+	margin-bottom: 50px;
 }
 .start h1 {
 	font-family: 'Open Sans';
@@ -65,6 +65,7 @@ body {
 	font-weight: Regular;
 	font-size: 14px;
 	line-height: 24px;
+	color: #959595;
 }
 .start p{
 	margin-bottom: 35px;
@@ -156,4 +157,24 @@ body {
 	float: right;
 	cursor: pointer;
 	transform: scale(1.5);
+}
+.details {
+	font-family: 'Open Sans';
+	font-weight: Regular;
+	font-size: 14px;
+	line-height: 24px;
+	color: #959595;
+}
+.details h2 {
+	font-family: 'Open Sans';
+	font-weight: Bold;
+	font-size: 14px;
+	line-height: 24px;
+	margin-bottom: 25px;
+	color: black;
+}
+.details h1 {
+	color: black;
+	margin-bottom: 50px;
+	font-size: 35px;
 }
