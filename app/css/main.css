@@ -22,7 +22,7 @@ body {
 	font-size:60px;
 }
 .header_text {
-	padding-top:354px;s
+	padding-top:322px;
 }
 .header_logo_text {
 	display: inline-block;
@@ -81,6 +81,7 @@ body {
 	height: 280px;
 	color: white;
 	padding: 45px 40px 50px 40px!important;
+	overflow: hidden;
 }
 .grid_head {
 	margin-top: 0;
