@@ -21,12 +21,6 @@ body {
 	font-weight: 300;
 	font-size:60px;
 }
-.header_wrap, .start {
-	position:relative;
-	display:block;
-	max-width: 1230px;
-	margin:0 auto;
-}
 .header_text {
 	padding-top:354px;s
 }
