@@ -75,7 +75,7 @@ body {
 	max-width: 1230px;
 	margin: 0 auto;
 }
-.item {
+.grid .item {
 	display: block;
 	position: relative;
 	height: 280px;
@@ -139,6 +139,13 @@ body {
 }
 .pictures {
 	background-color: #82ca9c;
+}
+.how_to {
+	background-color: #bd8cbf;
+}
+.start_somth {
+	background-image: url("../img/start.jpg");
+	background-size: cover;
 }
 .heart {
 	float: right;
