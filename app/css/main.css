@@ -238,3 +238,32 @@ body {
 .more_power-cup2 {
 	height: 210px;
 }
+.reasons {
+	display: block;
+	background-color: #82ca9c; 
+	height: 535px;
+}
+.reasons h1 {
+	margin-top: 100px;
+	margin-bottom: 55px;
+	font-family: 'Open Sans';
+	font-weight: Regular;
+	font-size: 35px;
+	line-height: 24px;
+	color: white;
+}
+.reasons h2 {
+	font-family: 'Open Sans';
+	font-weight: Bold;
+	font-size: 13px;
+	line-height: 24px;
+	color: white;
+}
+.reasons p {
+	font-family: 'Open Sans';
+	font-weight: Regular;
+	font-size: 14px;
+	line-height: 24px;
+	color: white;
+	margin-top: 10px;
+}
